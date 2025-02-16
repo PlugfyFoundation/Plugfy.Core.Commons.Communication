@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Plugfy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+680584d6fd24e47bc4f0b483d414e1de1db60f0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+417d8cf5d0865cb6c97f277379cc4e3ce61513b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Plugfy.Core.Commons.Communication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Plugfy.Core.Commons.Communication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
